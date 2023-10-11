@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+bsquant/__init__.py
+bsquant/roliing_optimize_engine.py
+bsquant.egg-info/PKG-INFO
+bsquant.egg-info/SOURCES.txt
+bsquant.egg-info/dependency_links.txt
+bsquant.egg-info/requires.txt
+bsquant.egg-info/top_level.txt

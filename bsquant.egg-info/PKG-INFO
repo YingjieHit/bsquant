@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: bsquant
+Version: 0.0.1
+Summary: A great Quantitative Trading project
+Home-page: https://github.com/YingjieHit/bsquant
+Author: Zhang Yingjie
+Author-email: yingjiehit@gmail.com
+Keywords: quantitative,trading,finance,cta
+License-File: LICENSE
